@@ -1,0 +1,10 @@
+{
+  "function": {
+    "getHelloworld": {
+      "build": true,
+      "dependsOn": [],
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
+    }
+  }
+}
